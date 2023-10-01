@@ -1,0 +1,15 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"bindbc-loader": "1.0.3",
+		"bindbc-opengl": "1.0.5",
+		"bindbc-sdl": "1.2.4",
+		"colorize": "1.0.5",
+		"derelict-assimp3": "2.0.0-beta.1",
+		"derelict-fi": "3.0.0-beta.1",
+		"derelict-util": "3.0.0-beta.2",
+		"gfm": "8.0.6",
+		"gfm7": "1.2.0",
+		"intel-intrinsics": "1.11.15"
+	}
+}
