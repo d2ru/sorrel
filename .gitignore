@@ -11,14 +11,18 @@
 *.a
 *.lib
 
-# Executables
+# Windows
 *.exe
+*.pdb
 
 # DUB
 .dub
 docs.json
 __dummy.html
 docs/
+
+# VSCODE 
+.vscode/
 
 # Code coverage
 *.lst
